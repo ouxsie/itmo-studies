@@ -4,7 +4,7 @@ Lab8 - про применение Tkinter
 Lab9 - про визуализацию данных с numpy, pandas matplotlib и seaborn. ТЗ в том же репозитории
 Lab10 - про всё вместе
 
-Accumulated here, see my study projects in Python I made during Basics of Python I & II classes at ITMO. Sorry it's mostly in Russian :(
+Here you can find my study projects in Python I made during Basics of Python I & II classes at ITMO. Sorry it's mostly in Russian :(
 Lab7 - about file opening methods (last one is full of functions, cycles, etc. though)
 Lab8 - about the use of Tkinter
 Lab9 - about data visualization with numpy, pandas matplotlib and seaborn. Task is in the .pdf there but it's in Russian and, were I you, I wouldn't bother that much.
